@@ -6,7 +6,8 @@ The version for this mod is Forge 1.20.1. A few mods are disabled like Iris shad
 <img width="1512" height="982" alt="Screenshot 2026-11-10 at 11 47 51 AM" src="https://github.com/user-attachments/assets/f58487b4-2470-486a-bbc3-d1d18344bb74" />
 <img width="1512" height="982" alt="Screenshot 2026-11-10 at 11 48 28 AM" src="https://github.com/user-attachments/assets/4de4e843-4fdd-4ccf-a784-c54f5868106c" />
 
-Also you can change hotbar and lean keybinds to your liking. But using default is always great! If you enjoy this modpack pls just tell your friends about it 😁
+
+Make sure you enable Fresh Animations and the Zombie Apocalypse provided resource packs which are essential to immersing yourself in the experience. Also you can change hotbar and lean keybinds to your liking. But using default is always great! If you enjoy this modpack pls just tell your friends about it 😁
 
 **Tips to Have a Fun Experience:**
 • Learn what the Timeless and Classics Zero mod, Immersive Engineering, Superb Warfare, [SBW] Combined Arms, and First Aid mod is. These are essential to know!
@@ -15,4 +16,6 @@ Also you can change hotbar and lean keybinds to your liking. But using default i
 • Save every living breathing villager. All it takes is two minutes for the Whole village to get wiped out. 🏘️
 • Last but not least, and most important of all - MAKE THE VACCINE!!!!! 💉
 
-That's all I have to say. Keep strong, live long, and most importantly **Survive**!
+If you come across any issues, please let me know. I've enjoyed this modpack myself with friends and we fixed all the known bugs but we are stil keeping our eyes peeled. 
+
+Welp. That's all I have to say. Keep strong, live long, and most importantly **Survive**!
