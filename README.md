@@ -10,6 +10,7 @@ The version for this mod is Forge 1.20.1. A few mods are disabled like Iris shad
 Make sure you enable Fresh Animations and the Zombie Apocalypse provided resource packs which are essential to immersing yourself in the experience. Also you can change hotbar and lean keybinds to your liking. But using default is always great! If you enjoy this modpack pls just tell your friends about it 😁
 
 **Tips to Have a Fun Experience:**
+
 • Learn what the Timeless and Classics Zero mod, Immersive Engineering, Superb Warfare, [SBW] Combined Arms, and First Aid mod is. These are essential to know!
 
 • Guns are your best friends. Without them .... let's just say "Good luck on getting far" 
