@@ -7,7 +7,7 @@ _Forget everything you knew about survival. The dead walk, the nights are unforg
 <img width="1512" height="982" alt="Screenshot 2026-11-10 at 11 48 28 AM" src="https://github.com/user-attachments/assets/4de4e843-4fdd-4ccf-a784-c54f5868106c" />
 
 
-  Make sure you enable Fresh Animations and the Zombie Apocalypse provided resource packs which are essential to immersing yourself in the experience. Also you can change hotbar and lean keybinds to your liking. But using default is always great! If you enjoy this modpack pls just tell your friends about it 😁
+  Make sure you enable Fresh Animations and the Zombie Apocalypse provided resource packs which are essential to immersing yourself in the experience. Also you can change hotbar and lean keybinds to your liking. But using default is always great! Check the Wiki Page on the GitHub to see a few images of survival gameplay. If you enjoy this modpack pls just tell your friends about it 😁
 
 **Tips to Have a Fun Experience:**
 
