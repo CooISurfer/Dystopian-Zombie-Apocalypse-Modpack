@@ -13,15 +13,19 @@ _Forget everything you knew about survival. The dead walk, the nights are unforg
 
 • Learn what the Timeless and Classics Zero mod, Immersive Engineering, Superb Warfare, [SBW] Combined Arms, and First Aid mod is. These are essential to know!
 
-• Guns are your best friends. Without them .... let's just say "Good luck on getting far" 
+• Refilling your thirst with a Water Canteen is just as important as eating. 💧
+
+• Guns are your best friends. Without them .... let's just say "Good luck on getting far" 🔪
 
 • Make a fortified base as soon as possible. Sercurity Craft is your Go To for that. 🏰
 
 • Save every living breathing villager. All it takes is two minutes for the Whole village to get wiped out. 🏘️
 
+• Zombies will do Anything in their power to get to you. 🧟‍♂️
+
 • Last but not least, and most important of all - MAKE THE VACCINE!!!!! 💉
 
-
+  
   If you come across any issues, please let me know. I've enjoyed this modpack myself with friends and we fixed all the known bugs but we are stil keeping our eyes peeled. 
 
 Welp. That's all I have to say. Keep strong, live long, and most importantly **Survive**!
